@@ -1,39 +1,39 @@
 ![MedeX Banner](banner.png)
 
-# 🏥 MedeX - Advanced Medical AI System
+# 🏥 MedeX – Advanced Medical AI System
 
-> **English Version | [Versión en Español](README.md)**
+> **English Version | [Spanish Version](README.md)**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Medical AI](https://img.shields.io/badge/Medical-AI-red.svg)](https://github.com)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)](https://github.com)
 
-> **Sistema Avanzado de IA Médica con detección inteligente de usuarios, protocolos de emergencia y base de conocimiento médico integral**
+> **Advanced Medical AI System with intelligent user detection, emergency protocols and knowledge base Integrative Medical Technology
 
-MedeX representa una evolución sofisticada en la tecnología de IA médica. El proyecto abarca tanto el framework fundamental de MedeX como su implementación insignia **MedeX v25.83**, impulsado por **Kimi K2-0711-Preview** que adapta automáticamente las respuestas para profesionales de la salud y pacientes, proporcionando información médica precisa con protocolos de seguridad integrados.
+MedeX represents a sophisticated evolution in medical AI technology. The project encompasses both the core MedeX framework and its flagship implementation, MedeX v25.83, powered by Kimi K2-0711-Preview, which automatically adapts responses for healthcare professionals and patients, providing accurate medical information with built-in safety protocols.
 
-## 🎯 Resumen del Proyecto
+## 🎯 Project Overview
 
-### **Framework MedeX**
+### **MedeX Framework**
 
-La arquitectura central de IA médica diseñada para:
+The core medical AI architecture designed for:
 
-- Procesamiento y recuperación de conocimiento médico
-- Implementación RAG (Recuperación Aumentada por Generación)
-- Integración de bases de datos médicas
-- Sistemas de información farmacéutica
+- Medical knowledge processing and retrieval
+- Generation Augmented Retrieval (GAR) implementation
+- Medical database integration
+- Pharmaceutical information systems
 
-### **MedeX v25.83** - Sistema de Producción Actual
+### **MedeX v25.83** - Current Production System
 
-Nuestro asistente de IA médica insignia que incluye:
+Our flagship medical AI assistant, which includes:
 
-- **Detección Automática de Usuarios**: Distingue entre profesionales de la salud y pacientes
-- **Respuestas Conscientes del Contexto**: Adapta el lenguaje y nivel de detalle según corresponda
-- **Detección de Emergencias**: Identifica automáticamente emergencias médicas con protocolos apropiados
-- **Streaming en Tiempo Real**: Respuestas progresivas para mejor experiencia de usuario
+- **Automatic User Detection**: Distinguishes between healthcare professionals and patients
+- **Context-Aware Responses**: Adapts language and level of detail accordingly
+- **Emergency Detection**: Automatically identifies medical emergencies with appropriate protocols
+- **Real-Time Streaming**: Progressive responses for a better user experience
 
-## ✨ Características Principales
+## ✨ Key Features
 
 ### 🧠 **Intelligent Medical AI**
 
